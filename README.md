@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karl
 - 👀 I’m interested in game programming and artificial intelligence
 - 🌱 I’m currently learning python, c, c++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on game projets, data analysis projets, machine learning projets 
 - 📫 How to reach me ...
 
 <!---
