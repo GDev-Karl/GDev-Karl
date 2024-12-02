@@ -47,9 +47,9 @@
 <h2 align="center">📊 Github Stats </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GDev-Karl&show_icons=true&locale=en&layout=compact" alt="nickssilver" 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=GDev-Karl&show_icons=true&locale=en" alt="nickssilver" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=GDev-Karl&show_icons=true&locale=en" alt="Karl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GDev-Karl&" alt="nickssilver" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GDev-Karl&" alt="Karl" /></p>
 
 <br>
 <h2 align="center">🤝 Support</h2>
