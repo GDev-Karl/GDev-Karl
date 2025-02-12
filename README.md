@@ -10,17 +10,17 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=GDev-Karl&label=Profile%20views&color=0e75b6&style=flat" alt="nickssilver" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GDev-Karl&label=Profile%20views&color=0e75b6&style=flat" alt="karl" /> </p>
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <h3 align="left">Talking about Personal Stuff:</h3>
 
-- 🌱 I’m currently working on **mobile games** with Unity and improving my skills in **backend development** using Node.js and Python.
+- 🌱 I’m currently working on **mobile games** with Unity and improving my skills in **backend development** using Node.js and Flask.
 
-- 💬 Ask me about anything tech-related, especially **game development** and **web technologies**. I'm happy to share insights and help!
+- 💬 Ask me about anything tech-related, especially **game development**, **web technologies**, and **mobiles technologies**. I'm happy to share insights and help!
 
 - 💻 I love coding, learning new technologies, and building real-world projects.
 
@@ -40,68 +40,88 @@
 
 
 
-# Languages & Framework #
-<div style="display: flex; align-items: flex-start; align: center">
+# 🚀 Languages, Frameworks, Databases & Game Engines
+
 <table align="center">
+  <!-- Languages -->
   <tr>
-      <br>Python
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
+      <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+      <img src="https://skillicons.dev/icons?i=c" width="65" height="65" alt="C"/>
+      <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#" />
+      <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git&theme=light" width="65" height="65" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
+  </tr>
+
+  <!-- Frameworks -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React" />
+      <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=flask&theme=light" width="65" height="65" alt="Flask" />
+      <br>Flask
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+    <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="65" height="65" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="65" height="65" alt="Next.js" />
+      <br>Next.js
+    </td>
+        <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter&theme=light" width="65" height="65" alt="Flutter" />
+      <br>Flutter
+    </td>
+  </tr>
+
+  <!-- CSS Frameworks -->
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=light" width="65" height="65" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>jQuery
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="65" height="65" alt="Tailwind CSS" />
+      <br>Tailwind
     </td>
-  </tr>
- <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=light" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-      </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis&theme=light" width="65" height="65" alt="Redis" />
+      <br>Redis
     </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
- </tr>
-</table>
-<br><br>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=unity&theme=light" width="65" height="65" alt="Unity" />
+      <br>Unity
+    </td>
 
-</div>
+  </tr>
+
+  
