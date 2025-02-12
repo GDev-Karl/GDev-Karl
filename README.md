@@ -5,7 +5,7 @@
   <img src="assets/images/Github_profile.png" alt="cover" />
 </div>
  <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Karl | 💻 Software Engineer & Game Developer | 🛸 Yaounde, Cameroun <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨 Karl | 💻 Software Engineer & Game Developer | 🛸 Yaounde, Cameroon <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <br>
